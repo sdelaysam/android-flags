@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/android-flags.iml" filepath="$PROJECT_DIR$/android-flags.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-flags-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-flags-app.iml" group="android-flags/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flags/android-flags-flags.iml" filepath="$PROJECT_DIR$/.idea/modules/flags/android-flags-flags.iml" group="android-flags/flags" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dev-android-flags.iml" filepath="$PROJECT_DIR$/.idea/modules/dev-android-flags.iml" group="android-flags" />
       <module fileurl="file://$PROJECT_DIR$/flags/flags.iml" filepath="$PROJECT_DIR$/flags/flags.iml" />
     </modules>
   </component>
