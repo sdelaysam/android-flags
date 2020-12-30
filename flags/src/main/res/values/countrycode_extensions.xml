@@ -729,4 +729,9 @@
         <item>260</item>
         <item>263</item>
     </string-array>
+
+    <string name="country_abbr_ae" translatable="false">UAE</string>
+    <string name="country_abbr_gb" translatable="false">UK</string>
+    <string name="country_abbr_us" translatable="false">USA</string>
+
 </resources>
